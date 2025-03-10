@@ -12,7 +12,7 @@ const HeroSection = () => {
     {
       title: "Experience the Future",
       subtitle: "Discover cutting-edge technology that transforms your digital lifestyle",
-      image: "https://images.unsplash.com/photo-1661581095158-4dbd936cea25?q=80&w=1470&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1719945421298-f03d3d80c3e1?q=80&w=1470&auto=format&fit=crop",
       category: "smartphones",
     },
     {
