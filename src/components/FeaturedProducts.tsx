@@ -100,7 +100,7 @@ const featuredProducts: Product[] = [
     price: 549.99,
     oldPrice: 649.99,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1617901647379-bfa885db27f4?q=80&w=1332&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1596443019365-eb263a588404?q=80&w=1332&auto=format&fit=crop',
     badge: {
       text: 'Sale',
       variant: 'destructive',
