@@ -90,7 +90,7 @@ const featuredProducts: Product[] = [
     category: 'Home Tech',
     price: 149.99,
     rating: 4.4,
-    image: 'https://images.unsplash.com/photo-1648317136273-10b5f0d70b24?q=80&w=1471&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1667855766927-9d0c8fa1965a?q=80&w=1471&auto=format&fit=crop',
     isNew: true,
   },
   {
@@ -112,7 +112,7 @@ const featuredProducts: Product[] = [
     category: 'Home Tech',
     price: 129.99,
     rating: 4.3,
-    image: 'https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?q=80&w=1470&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1728971975421-50f3dc9663a4?q=80&w=1470&auto=format&fit=crop',
   },
 ];
 
